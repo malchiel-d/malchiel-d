@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building landing page for [Litra](https://malchiel-d.github.io/litra/)
+🔭 Currently working on [Litra](https://malchiel-d.github.io/litra/)
 <br>
 
 👯 I build Frontend projects that need a clean UI and responsive layouts.
