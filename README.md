@@ -1,4 +1,4 @@
-<div align="center" > <img src="./assets/header.png" alt="Malchiel"> </div> 
+<div align="center"> <img src="./assets/header.png" alt="Malchiel"> </div> 
 
 ## lets connect:
 <div>
@@ -7,15 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-787ff5?style=for-the-badge&logo=gmail&logoColor=e5e6e9&labelColor=0a0f30)](mailto:malchiel.dawit1@gmail.com)
 
 </div>
-
-<<<<<<< HEAD
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555)](https://www.linkedin.com/in/malchiel-dawit) 
-[![Email](https://img.shields.io/badge/Email-7cebf5?color=2DD4B9&style=for-the-badge&logo=gmail&logoColor=white&labelColor=555)](mailto:malchiel.dawit1@gmail.com)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-=======
 
 ## tech stack
 
@@ -28,11 +19,11 @@
 </p>
 
 
-<p>
-  <img src="./assets/simpleanalytics.svg" alt="stats" style="vertical-align: middle; width:24px; height:24px;">
-  GitHub Stats
-</p>
+<!--<p align="left" >
+  <img src="./assets/simpleanalytics.svg" alt="stats"; width="30px" height="30px">
+</p>-->
 
+## GitHub Stats
 
 ​<p align="center">
 <a href="https://github.com/malchiel-d">
@@ -53,4 +44,3 @@
 </a>
 </p>
 <br />
->>>>>>> 0924a46c888813ef2297dd1400a23d4dfa97ac10
