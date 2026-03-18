@@ -7,7 +7,7 @@
  ***_I build clean, functional web experience_***
 
 ## Currently working on:
-- [EUEE simulator](https://github.com/malchiel-d/https://github.com/malchiel-d/EUEE-simulator-demo): public demo and documentation for web-based exam practice platform
+- [EUEE simulator](https://github.com/malchiel-d/EUEE-simulator-demo): public demo and documentation for web-based exam practice platform
 - [litra](https://github.com/malchiel-d/litra): latin script transliteration tool
 - [school website](https://github.com/malchiel-d/school-website): template for school landing page
 </div>
