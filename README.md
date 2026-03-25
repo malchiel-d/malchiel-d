@@ -6,10 +6,10 @@
 
  ***_I build clean, functional web experience_***
 
-## Currently working on:
-- [EUEE simulator](https://github.com/malchiel-d/EUEE-simulator-demo): public demo and documentation for web-based exam practice platform
-- [litra](https://github.com/malchiel-d/litra): latin script transliteration tool
-- [school website](https://github.com/malchiel-d/school-website): template for school landing page
+## Projects:
+- [Ethioxam](https://malchiel-d.github.io/ethioxam/): web-based exam practice platform.
+- [Litra](https://malchiel-d.github.io/litra/): latin script transliteration tool.
+- [School website](https://malchiel-d.github.io/school-website/): template for school landing page.
 </div>
 
 ## lets connect
